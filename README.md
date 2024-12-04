@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hien! 👩‍💻
 
-<!--
-**danghien206/danghien206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Frontend Developer** passionate about building beautiful and functional web applications. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Technologies I Work With:
+
+### Frontend:
+![FE](https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,tailwind,css,scss,bootstrap,html,threejs)  
+
+### Backend:
+![BE](https://skillicons.dev/icons?i=nodejs,php,laravel,nginx)  
+
+### Databases:
+![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase)  
+
+### Tools & Platforms:
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode)  
+
+### Programming Languages:
+![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp)  
+
+---
+
+## 💻 Connect with me!
+- 🌐 [GitHub](https://github.com/danghien206)  
+- 🌐 [Facebook](https://facebook.com/hine.wns)  
+- 🌐 [Instagram](https://instagram.com/_hine.wns)  
